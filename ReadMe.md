@@ -1,2 +1,2 @@
-MGGovToken - Governance Token
+MGGovToken - Governance Token  
 MockAccessControl - A CTF kind of challenge
