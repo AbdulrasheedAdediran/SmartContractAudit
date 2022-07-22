@@ -1,5 +1,5 @@
-**MGGovToken** - Governance Token  
+# Mock Smart Contract Audit
 
-**MockAccessControl** - A CTF kind of challenge  
+1. **MGGovToken** - Governance Token
 
-**MockStakingRewards** - A simple staking rewards contract, which distributes rewards to users, based on a set reward per block, corresponding to the number LP Tokens staked. Assume `mockTokenContract` and `mockLpTokenContract` as simple ERC20 tokens.
+2. **MockAccessControl** - A CTF kind of challenge
